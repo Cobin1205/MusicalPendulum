@@ -1,0 +1,15 @@
+To-Do
+
+1. Implement UI for better customization
+    - Envelope?
+    - Effects?
+
+2. Show the notes on the Y axis
+
+3. Fix the pendulum physics
+    - Spins out of control
+    - Implement RK4 instead of Euler?
+
+4. Customizable color options for note buttons
+
+5. Fix the not typeable text fields
